@@ -1,0 +1,14 @@
+.list-employee-container {
+  padding-top: 30px; /* Adds padding at the top */
+}
+
+.custom-btn {
+  color: black;
+  border: 1px solid black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.custom-btn:hover {
+  background-color: purple;
+  color: white;
+}

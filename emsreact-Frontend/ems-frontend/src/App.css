@@ -1,0 +1,43 @@
+.header {
+  height: 150px; /* Increase the height of the header */
+}
+
+.footer {
+  position: fixed; /* Fixed position to stay at the bottom of the viewport */
+  left: 0;
+  bottom: 0;
+  width: 100%; /* Take up the full width of the viewport */
+  height: 80px; /* Set the height of the footer */
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+/* Adjust the padding or margin of the container element */
+.table-container {
+  padding-bottom: 100px; /* Adjust the value as needed */
+}
+/* Adjust the max-height and overflow properties */
+.table-container {
+  max-height: calc(
+    100vh - 100px
+  ); /* Adjust the value based on the footer height */
+  overflow-y: auto;
+}
+
+/* Adjust flex properties */
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.table-container {
+  flex: 1; /* Grow to fill available space */
+  overflow-y: auto;
+  background-color: lightgrey;
+}
+
+.btn {
+  background-color: transparent;
+}
