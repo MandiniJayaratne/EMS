@@ -5,8 +5,8 @@ An Employee Management System built with React and Spring Boot, designed to stre
 ## Features ✨
 
 * **Employee Management**: Add, view, update, and delete employee records.
-* * **Dashboard Overview**: Summarizes key metrics and statistics related to employees and departments.
-* * **Email Notifications to Upper Management**: Enables admins to send important updates and notifications about employees directly to upper management, ensuring efficient communication and timely action.
+* **Dashboard Overview**: Summarizes key metrics and statistics related to employees and departments.
+* **Email Notifications to Upper Management**: Enables admins to send important updates and notifications about employees directly to upper management, ensuring efficient communication and timely action.
 * **Responsive Design**
 * 
 ## Technologies Used 🛠️
