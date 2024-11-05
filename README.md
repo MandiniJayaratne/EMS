@@ -51,8 +51,9 @@ An Employee Management System built with React and Spring Boot, designed to stre
      ```
 
    - Run the Spring Boot application
+     
 
-  4. **Frontend Setup**:
+  3. **Frontend Setup**:
    - Open a new terminal and navigate to the frontend directory:
      ```bash
      cd ../frontend
