@@ -50,7 +50,7 @@ An Employee Management System built with React and Spring Boot, designed to stre
     spring.datasource.password=your_password
      ```
 
-   - Run the Spring Boot application
+- Run the Spring Boot application
      
 
   3. **Frontend Setup**:
