@@ -43,13 +43,15 @@ An Employee Management System built with React and Spring Boot, designed to stre
    - Configure the database connection:
      ```bash
     spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
+     ```bash
     spring.datasource.username=your_username
+     ```bash
     spring.datasource.password=your_password
      ```
 
    - Run the Spring Boot application
 
-  3. **Frontend Setup**:
+  4. **Frontend Setup**:
    - Open a new terminal and navigate to the frontend directory:
      ```bash
      cd ../frontend
