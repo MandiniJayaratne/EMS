@@ -31,7 +31,7 @@ An Employee Management System built with React and Spring Boot, designed to stre
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/MandiniJayaratne/EMS.git
    cd employee-management-system
 
 2. **Backend Setup**:
