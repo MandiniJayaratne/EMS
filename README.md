@@ -32,12 +32,12 @@ An Employee Management System built with React and Spring Boot, designed to stre
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/MandiniJayaratne/EMS.git
-   cd employee-management-system
+   
 
 2. **Backend Setup**:
 - Navigate to the backend directory:
      ```bash
-     cd backend
+     cd ems-backend
      ```
 - Configure the database connection:
      
@@ -57,7 +57,8 @@ An Employee Management System built with React and Spring Boot, designed to stre
 3. **Frontend Setup**:
    - Open a new terminal and navigate to the frontend directory:
      ```bash
-     cd ../emsreact-frontend
+     cd ../emsreact-Frontend
+     cd ems-frontend
      ```
 
    - Install dependencies:
