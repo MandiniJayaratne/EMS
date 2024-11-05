@@ -39,12 +39,13 @@ An Employee Management System built with React and Spring Boot, designed to stre
      ```bash
      cd backend
      ```
-
-   - Configure the database connection:
+- Configure the database connection:
      ```bash
     spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
+     ```
      ```bash
     spring.datasource.username=your_username
+     ```
      ```bash
     spring.datasource.password=your_password
      ```
