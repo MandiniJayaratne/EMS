@@ -18,3 +18,53 @@ An Employee Management System built with React and Spring Boot, designed to stre
 * **Build Tool**: Maven🔨
 * **API Communication**: RESTful API endpoints connecting React and Spring Boot🔗 
 
+## Installation and Setup 🛠️
+
+### Prerequisites
+
+- Node.js and npm
+- Java Development Kit (JDK)
+- Spring Boot and Maven
+- MySQL 
+
+### Steps
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/employee-management-system.git
+   cd employee-management-system
+
+2. **Backend Setup**:
+   - Navigate to the backend directory:
+     ```bash
+     cd backend
+     ```
+
+   - Configure the database connection:
+     ```bash
+    spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
+    spring.datasource.username=your_username
+    spring.datasource.password=your_password
+     ```
+
+   - Run the Spring Boot application
+
+  3. **Frontend Setup**:
+   - Open a new terminal and navigate to the frontend directory:
+     ```bash
+     cd ../frontend
+     ```
+
+   - Install dependencies:
+     ```bash
+     npm install
+     ```
+
+   - Start the React app:
+     ```bash
+     npm start
+     ```
+
+   
+
+
