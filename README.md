@@ -57,7 +57,7 @@ An Employee Management System built with React and Spring Boot, designed to stre
 3. **Frontend Setup**:
    - Open a new terminal and navigate to the frontend directory:
      ```bash
-     cd ../frontend
+     cd ../emsreact-frontend
      ```
 
    - Install dependencies:
